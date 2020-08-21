@@ -1,0 +1,9 @@
+name: NicknameColors
+main: MulkiAqi192\NicknameColors\Main
+author: MulkiAqi192
+api: 3.0.0
+version: 1.0
+
+commands:
+  ncolors:
+    description: "Change your username color in chat!"
